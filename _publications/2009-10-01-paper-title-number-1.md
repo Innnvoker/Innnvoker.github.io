@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Fake News Detection Based on a Bi-directional LSTM with CNN"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'This paper is a naive writing practice.'
+date: 2022-01-12
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.1007/978-981-16-8885-0_4'
+citation: 'Ji, Y. (2021). Fake News Detection Based on a Bi-directional LSTM with CNN. In: Cao, W., Ozcan, A., Xie, H., Guan, B. (eds) Computing and Data Science. CONF-CDS 2021. Communications in Computer and Information Science, vol 1513. Springer, Singapore. https://doi.org/10.1007/978-981-16-8885-0_4'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
