@@ -1,7 +1,7 @@
 ---
 title: "Fake News Detection Based on a Bi-directional LSTM with CNN"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 'https://doi.org/10.1007/978-981-16-8885-0_4'
 excerpt: 'This paper is a naive writing practice.'
 date: 2022-01-12
 venue: 'Journal 1'
