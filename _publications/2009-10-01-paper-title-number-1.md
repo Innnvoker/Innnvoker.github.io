@@ -1,12 +1,12 @@
 ---
 title: "Fake News Detection Based on a Bi-directional LSTM with CNN"
 collection: publications
-permalink: 'https://doi.org/10.1007/978-981-16-8885-0_4'
+permalink: 
 excerpt: 'This paper is a naive writing practice.'
 date: 2022-01-12
 venue: 'Journal 1'
 paperurl: 'https://doi.org/10.1007/978-981-16-8885-0_4'
-citation: 'Ji, Y. (2021). Fake News Detection Based on a Bi-directional LSTM with CNN. In: Cao, W., Ozcan, A., Xie, H., Guan, B. (eds) Computing and Data Science. CONF-CDS 2021. Communications in Computer and Information Science, vol 1513. Springer, Singapore. https://doi.org/10.1007/978-981-16-8885-0_4'
+citation: 'Ji, Y. (2021). Fake News Detection Based on a Bi-directional LSTM with CNN. In: Cao, W., Ozcan, A., Xie, H., Guan, B. (eds) Computing and Data Science. CONF-CDS 2021. Communications in Computer and Information Science, vol 1513. Springer, Singapore.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
